@@ -1,0 +1,29 @@
+date,user_pseudo_id,role,tenure_bucket,team_id,q1,q2,q3,q4,note_text,note_text_redacted,sentiment_score,burnout_flag
+2025-10-09,user_1000,Hourly,1-3y,OPS-ALPHA,3,2,4,3,"Felt a bit overwhelmed early week, manager adjusted deadlines.","Felt a bit overwhelmed early week, manager adjusted deadlines.",-1.0,1
+2025-10-10,user_1001,Salaried,1-3y,OPS-ALPHA,3,3,2,2,Recognition shout-out helped. Better balance.,Recognition shout-out helped. Better balance.,0.0,0
+2025-10-11,user_1002,Hourly,<1y,OPS-ALPHA,1,3,3,4,Micromanagement creeping in; trying to set boundaries.,Micromanagement creeping in; trying to set boundaries.,0.0,0
+2025-10-12,user_1003,Salaried,1-3y,OPS-ALPHA,2,1,3,4,Workload heavy; team supported me on Thu.,Workload heavy; team supported me on Thu.,1.0,0
+2025-10-13,user_1004,Salaried,1-3y,OPS-ALPHA,2,2,2,2,,,0.0,0
+2025-10-14,user_1005,Salaried,1-3y,OPS-ALPHA,2,2,4,2,"Felt a bit overwhelmed early week, manager adjusted deadlines.","Felt a bit overwhelmed early week, manager adjusted deadlines.",-1.0,1
+2025-10-15,user_1006,Salaried,1-3y,OPS-ALPHA,3,4,4,2,Recognition shout-out helped. Better balance.,Recognition shout-out helped. Better balance.,0.0,0
+2025-10-16,user_1007,Hourly,3y+,OPS-ALPHA,3,3,2,1,Micromanagement creeping in; trying to set boundaries.,Micromanagement creeping in; trying to set boundaries.,0.0,0
+2025-10-17,user_1008,Hourly,1-3y,OPS-ALPHA,3,3,3,2,Workload heavy; team supported me on Thu.,Workload heavy; team supported me on Thu.,1.0,0
+2025-10-18,user_1009,Hourly,<1y,OPS-ALPHA,2,2,2,4,,,0.0,0
+2025-10-19,user_1010,Salaried,1-3y,OPS-ALPHA,4,3,3,3,"Felt a bit overwhelmed early week, manager adjusted deadlines.","Felt a bit overwhelmed early week, manager adjusted deadlines.",-1.0,1
+2025-10-20,user_1011,Salaried,<1y,OPS-ALPHA,3,3,2,3,Recognition shout-out helped. Better balance.,Recognition shout-out helped. Better balance.,0.0,0
+2025-10-21,user_1012,Hourly,1-3y,OPS-ALPHA,4,3,2,2,Micromanagement creeping in; trying to set boundaries.,Micromanagement creeping in; trying to set boundaries.,0.0,0
+2025-10-22,user_1013,Hourly,1-3y,OPS-ALPHA,2,3,3,1,Workload heavy; team supported me on Thu.,Workload heavy; team supported me on Thu.,1.0,0
+2025-10-23,user_1014,Hourly,1-3y,OPS-ALPHA,3,2,4,3,,,0.0,0
+2025-10-24,user_1015,Salaried,1-3y,OPS-ALPHA,4,2,2,3,"Felt a bit overwhelmed early week, manager adjusted deadlines.","Felt a bit overwhelmed early week, manager adjusted deadlines.",-1.0,1
+2025-10-25,user_1016,Hourly,1-3y,OPS-ALPHA,3,3,2,3,Recognition shout-out helped. Better balance.,Recognition shout-out helped. Better balance.,0.0,0
+2025-10-26,user_1017,Hourly,1-3y,OPS-ALPHA,3,2,2,4,Micromanagement creeping in; trying to set boundaries.,Micromanagement creeping in; trying to set boundaries.,0.0,0
+2025-10-27,user_1018,Salaried,1-3y,OPS-ALPHA,2,2,3,3,Workload heavy; team supported me on Thu.,Workload heavy; team supported me on Thu.,1.0,0
+2025-10-28,user_1019,Hourly,3y+,OPS-ALPHA,3,3,3,3,,,0.0,0
+2025-10-29,user_1020,Salaried,<1y,OPS-ALPHA,3,3,2,2,"Felt a bit overwhelmed early week, manager adjusted deadlines.","Felt a bit overwhelmed early week, manager adjusted deadlines.",-1.0,1
+2025-10-30,user_1021,Salaried,1-3y,OPS-ALPHA,2,3,2,1,Recognition shout-out helped. Better balance.,Recognition shout-out helped. Better balance.,0.0,0
+2025-10-31,user_1022,Hourly,1-3y,OPS-ALPHA,3,2,1,3,Micromanagement creeping in; trying to set boundaries.,Micromanagement creeping in; trying to set boundaries.,0.0,0
+2025-11-01,user_1023,Salaried,1-3y,OPS-ALPHA,2,3,2,2,Workload heavy; team supported me on Thu.,Workload heavy; team supported me on Thu.,1.0,0
+2025-11-02,user_1024,Salaried,1-3y,OPS-ALPHA,2,2,2,2,,,0.0,0
+2025-11-03,user_1025,Hourly,1-3y,OPS-ALPHA,2,1,3,1,"Felt a bit overwhelmed early week, manager adjusted deadlines.","Felt a bit overwhelmed early week, manager adjusted deadlines.",-1.0,1
+2025-11-04,user_1026,Salaried,1-3y,OPS-ALPHA,2,3,3,4,Recognition shout-out helped. Better balance.,Recognition shout-out helped. Better balance.,0.0,0
+2025-11-05,user_1027,Salaried,<1y,OPS-ALPHA,1,3,4,3,Micromanagement creeping in; trying to set boundaries.,Micromanagement creeping in; trying to set boundaries.,0.0,0
